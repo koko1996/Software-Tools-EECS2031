@@ -1,0 +1,10 @@
+hello
+blank count  0 
+ 
+how are you!
+blank count  2 
+ 
+I am good and thanks !
+blank count  5 
+ 
+Total blank count  7 
